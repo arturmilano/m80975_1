@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pdm</string>
+    <string name="botao_login">login</string>
+</resources>
